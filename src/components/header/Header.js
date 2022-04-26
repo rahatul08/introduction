@@ -24,7 +24,7 @@ const Header = () => {
                             <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                             <ul className="navbar-nav">
                                 <li className="nav-item">
-                                    <Link className="nav-link active text-white display-4" aria-current="page" to="">COMMUNITY</Link>
+                                    <a className="nav-link active text-white display-4" aria-current="page" href="https://community.techroad.io/">COMMUNITY</a>
                                 </li>
                             </ul>
                             </div>
